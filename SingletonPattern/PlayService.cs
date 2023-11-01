@@ -6,7 +6,7 @@ sealed public class PlayService
     private static readonly object _lock = new object();
 
     /// <summary>
-    /// 
+    /// Private constructor
     /// </summary>
     private PlayService() {}
 
