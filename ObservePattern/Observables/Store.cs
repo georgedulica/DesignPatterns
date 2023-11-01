@@ -8,6 +8,7 @@ public class Store : IObservable
 {
     private readonly IList<Email> customers;
     private readonly IObserver notifyService;
+    
     public Store(IList<Email> customers, IObserver notifyService)
     {
         this.customers = customers;
