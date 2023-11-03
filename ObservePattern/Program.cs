@@ -1,6 +1,6 @@
-﻿using ObservePattern.Models;
-using ObservePattern.Observables;
-using ObservePattern.Observers;
+﻿using ObserverPattern.Models;
+using ObserverPattern.Observables;
+using ObserverPattern.Observers;
 
 public class Program
 {
