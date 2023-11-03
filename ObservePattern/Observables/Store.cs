@@ -1,8 +1,8 @@
-﻿using ObservePattern.Interfaces;
-using ObservePattern.Models;
-using ObservePattern.Observers;
+﻿using ObserverPattern.Interfaces;
+using ObserverPattern.Models;
+using ObserverPattern.Observers;
 
-namespace ObservePattern.Observables;
+namespace ObserverPattern.Observables;
 
 public class Store : IObservable
 {

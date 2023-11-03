@@ -1,8 +1,7 @@
-﻿using ObservePattern.Interfaces;
-using ObservePattern.Models;
-using ObservePattern.Observables;
+﻿using ObserverPattern.Interfaces;
+using ObserverPattern.Models;
 
-namespace ObservePattern.Observers;
+namespace ObserverPattern.Observers;
 
 public class NotifyService : IObserver
 {

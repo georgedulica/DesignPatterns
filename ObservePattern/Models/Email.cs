@@ -1,4 +1,4 @@
-﻿namespace ObservePattern.Models;
+﻿namespace ObserverPattern.Models;
 
 public class Email
 {

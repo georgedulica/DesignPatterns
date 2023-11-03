@@ -1,6 +1,6 @@
-﻿using ObservePattern.Models;
+﻿using ObserverPattern.Models;
 
-namespace ObservePattern.Interfaces;
+namespace ObserverPattern.Interfaces;
 
 public interface IObserver
 {
