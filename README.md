@@ -1,6 +1,6 @@
 # DesignPatterns
 
-Behavioral patterns:
+Behavioral design patterns:
 
 
 Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing. It maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
@@ -8,7 +8,7 @@ Observer is a behavioral design pattern that lets you define a subscription mech
 
 
 
-Creational patterns:
+Creational design patterns:
 
 
 Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
